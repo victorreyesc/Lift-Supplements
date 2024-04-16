@@ -1,0 +1,4 @@
+Capa: C:\Users\Victor\Documents\Trabalhos Senac\Lift Supplements\assets\geral\bg.jpg
+Título: Título
+Texto:
+textooooo
